@@ -66,9 +66,9 @@ Run the Flask application:
 4. View the predicted sentiment.
 
 ## Dependencies
-Flask
-NumPy
-NLTK
+- Flask
+- NumPy
+- NLTK
 
 ## Contributing
 
