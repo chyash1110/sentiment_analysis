@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analyzer</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sentiment Analyzer</h1>
+        <form id="sentimentForm" action="/predict" method="post">
+            <label for="tweet">Enter your tweet:</label>
+            <input type="text" name="tweet" required>
+            <button type="submit">Predict Sentiment</button>
+        </form>
+        <h1 id="prediction" class="hidden">Predicted Sentiment: {{ sentiment }}</h1>
+        <a href="/">Go back</a>
+    </div>
+
+    <script src="static/script.js"></script>
+</body>
+</html>
