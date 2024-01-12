@@ -46,15 +46,15 @@ Twitter Sentiment Analyzer is a simple web application that predicts the sentime
 
 1. Clone the repository
    
-git clone https://github.com/chyash1110/twitter-sentiment-analyzer.git
+   git clone https://github.com/chyash1110/twitter-sentiment-analyzer.git
 
 2. Change into the project directory
 
-cd twitter-sentiment-analyzer
+   cd twitter-sentiment-analyzer
 
 3. Install dependencies
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Usage
 
