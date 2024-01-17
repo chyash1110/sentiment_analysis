@@ -58,6 +58,8 @@ Twitter Sentiment Analyzer is a simple web application that predicts the sentime
 
 ## Usage
 
+View the application here: https://1yash.pythonanywhere.com/
+
 Run the Flask application:
 
 1. python app.py
