@@ -72,6 +72,12 @@ Run the Flask application:
 - NumPy
 - NLTK
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/5b51bc72-df6b-49aa-8dfc-7f65606820d9)
+![image](https://github.com/user-attachments/assets/7aaecfd8-00bd-4e82-bafa-eb2a2dafd6a4)
+
+
 ## Contributing
 
 #### If you'd like to contribute to this project, please follow these steps:
